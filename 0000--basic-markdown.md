@@ -80,6 +80,10 @@ Images can also be used as links:
 `[![Nethack](img/Nethack-kernigh-22oct2005-80.png)](https://commons.wikimedia.org/w/index.php?title=File:Nethack-kernigh-22oct2005-80.png)`
 
 And in use:
-[![Nethack](img/Nethack-kernigh-22oct2005-80.png)](https://commons.wikimedia.org/w/index.php?title=File:Nethack-kernigh-22oct2005-80.png)`
+
+[![Nethack](img/Nethack-kernigh-22oct2005-80.png)](https://commons.wikimedia.org/w/index.php?title=File:Nethack-kernigh-22oct2005-80.png)
+
+Since storing video files with your site is usually rather prohibitive due to their size, consider taking a screenshot of the first frame of the video hosted on a video hosting site and using that to link to the external video on that site. That way the page will sill load properly even if you do not have internet access which would otherwise block embedding the video in the page instead. Besides, embedding videos is generally a bad idea because it adds HTML to your markdown unnecessarily causing it to be incompatible with other potential rendering formats. 
+
 
 
