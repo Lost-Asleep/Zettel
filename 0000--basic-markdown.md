@@ -6,6 +6,8 @@ This is another paragraph. Make your paragraphs just a single long line and don'
 
 **Also every programming project should have a README.md**
 
+All of this is shamelessly taken from [\<rwx.gg\>](https://duckduckgo.com/?q=basic+markdown+rwx.gg+rwxrob).
+
 
 ## Headings
 
