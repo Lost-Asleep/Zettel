@@ -213,5 +213,5 @@ Use of quotation marks surrounding the text of the quote itself is completely up
 ## Tables
 Just don’t use them. If you do need them, use Pandoc Markdown instead (not GitHub Flavored Markdown). For basic Markdown it is more important to maintain compatibility and no one agrees on how tables should be done. It is one of the most hotly debated topics in the Markdown community.
 
-*[/<Typora\>](https://duckduckgo.com/?q=typora+markdown+tables) seems to have a decent table creator function. Note that this uses Github Flavored Markdown tables.*
+*[\<Typora\>](https://duckduckgo.com/?q=typora+markdown+tables) seems to have a decent table creator function. Note that this uses Github Flavored Markdown tables.*
 
