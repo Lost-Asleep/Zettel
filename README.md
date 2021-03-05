@@ -12,5 +12,5 @@ The files will be named continuously with 4 characters [0123456789ABCDEFGHIJKLMN
 
 [Basic Markdown Syntax](zettel/0000--basic-markdown.md)
 
-
+[Basich BASH Terminal Commands](zettel/0001--basic-bash-terminal-commands.md)
 
