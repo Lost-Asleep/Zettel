@@ -41,4 +41,6 @@ Again thanks to [\<rwxrob\>](https://duckduckgo.com/?q=rwxrob+github).
 * `type         ->` Get a short description of the type the command is linked to. Example: alias, shell builtin...
 
 
+## Connections
+[More basic terminal commands from tlcl 2nd edition](../zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
 

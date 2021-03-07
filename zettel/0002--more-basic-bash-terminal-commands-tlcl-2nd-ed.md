@@ -30,4 +30,5 @@ Partially redundant to [\<Basic BASH / Terminal commands on Linux\>](./0001--bas
 
 *You sometimes encounter a documentation file that has a *.gz* extension. This indicates that they have been compressed with the gzip compression program. The gzip package includes a special version of `less` called `zless` that will display the contents of gzip-compressed text files.*
 
-
+## Connections
+[Basic bash terminal commands](../zettel/0001--basic-bash-terminal-commands.md)
