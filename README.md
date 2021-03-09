@@ -16,3 +16,5 @@ The files will be named continuously with 4 characters [0123456789ABCDEFGHIJKLMN
 
 [More basic BASH / Terminal Commands](zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
 
+[Python 3 virtual environments via venv](zettel/0003--python-virtual-environment.md)
+
