@@ -18,3 +18,4 @@ The files will be named continuously with 4 characters [0123456789ABCDEFGHIJKLMN
 
 [Python 3 virtual environments via venv](zettel/0003--python-virtual-environment.md)
 
+[Python 3 class inheritante example](zettel/0004--python-class-inheritance.md)
