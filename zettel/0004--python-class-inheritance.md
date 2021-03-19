@@ -12,8 +12,12 @@ class Animal:
 
 class Fish(Animal):
     def __init__(self):
-        super().__init__()
+        super().__init__()  # Inherit the __init__ from the parent/super class.
 
+    def breathe(self):
+        super().breathe()  # Inherit this function from the superclass.
+        print("Doing this underwater.")  # And add more stuff to it.
+        
     def swim(self):
         print("Moving in water.")
 
