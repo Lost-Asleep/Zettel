@@ -20,3 +20,6 @@ The files will be named continuously with 4 characters [0123456789ABCDEFGHIJKLMN
 
 [Python 3 class inheritante example](zettel/0004--python-class-inheritance.md)
 
+[Pong Game Design](zettel/0005--pong-game-design.md)
+
+[Newer Emacs Version on Linux Mint Debian Edition](zettel/0006--newer-emacs-on-lmde.md)
