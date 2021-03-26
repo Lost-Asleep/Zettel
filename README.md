@@ -25,3 +25,10 @@ An exeption to this is the temp-notes folder for notes in progress oder very tin
 [Pong Game Design](zettel/0005--pong-game-design.md)
 
 [Newer Emacs Version on Linux Mint Debian Edition](zettel/0006--newer-emacs-on-lmde.md)
+
+
+### Medicine
+
+[Pulmonary Nodule Patterns](zettel/0007-pulmonary-nodule-patterns.md)
+
+[Lung Adenocarcinoma Terminology](zettel/0008--lung-adenocarcinoma-terminology.md)
