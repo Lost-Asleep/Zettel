@@ -7,6 +7,8 @@ Maybe categories or subindexes will be necessary at some point. But not for now.
 ### File names
 The files will be named continuously with 4 characters [0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ] two dashes and a more meaningful title. So the first note will be named `0000--basic-markdown.md` and the last one `ZZZZ--some-note-name.md`. This naming scheme leaves me with 1679616 possible combinations. Should be more than enough. 
 
+An exeption to this is the temp-notes folder for notes in progress oder very tiny bits of information. I am not sure if this is a good idea or not.
+
 
 ## Index
 
