@@ -1,4 +1,7 @@
 # Lung Adenocarcinoma Terminology
+
+*From a lecture by Dr. Miranda Siemienowicz.*
+
 In 2011, the International Association for the Study of Lung Cancer (IASLC), American Thoracic Society (ATS), and European Respiratory Society (ERS) introduced a new classification and terminology for adenocarcinoma of the lung. 
 
 * Non smoker cancer. 
