@@ -29,6 +29,5 @@ An exeption to this is the temp-notes folder for notes in progress oder very tin
 
 ### Medicine
 
-[Pulmonary Nodule Patterns](zettel/0007--pulmonary-nodule-patterns.md)
+[Medicine / Radiology Index](zettel/0009--medicine-radiology-index.md)
 
-[Lung Adenocarcinoma Terminology](zettel/0008--lung-adenocarcinoma-terminology.md)
