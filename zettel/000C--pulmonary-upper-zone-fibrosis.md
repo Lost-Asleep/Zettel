@@ -1,7 +1,5 @@
 # Pulmonary Upper Zone Fibrosis
 
-*From a lecture by Dr. Miranda Siemienowicz.*
-
 ## Sarcoidosis 
 
 * bilateral upper lung volume loss

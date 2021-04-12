@@ -1,7 +1,5 @@
 # Pulmonary lower zone fibrosis
 
-*From a lecture by Dr. Miranda Siemienowicz.*
-
 The most common cause of reticulation in the lower zones is the consequence of previous infection, aspiration, recurrent aspiration. Things you might see: A few bands in the lower lobes, a little bit of dilated airways. 
 
 

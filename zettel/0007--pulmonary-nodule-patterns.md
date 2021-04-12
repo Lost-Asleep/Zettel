@@ -1,7 +1,5 @@
 # Pulmonary Nodule Patterns
 
-*From a lecture by Dr. Miranda Siemienowicz.*
-
 ### Three types of distribution patterns
 
 ####  Centrilobular 
