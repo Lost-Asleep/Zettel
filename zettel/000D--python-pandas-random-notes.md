@@ -13,8 +13,8 @@ some_other_data.to_csv("path_to_new_csv_file")
 ### Create a list from one column of a dataframe
 
 ```python
-# data is a dataframe, columnname is the name of a column.
-new_list = data.state.to_list()
+# data is a dataframe, column_name is the name of a column.
+new_list = data.column_name.to_list()
 ```
 
 ## Connections
