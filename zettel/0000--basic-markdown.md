@@ -215,3 +215,7 @@ Just don’t use them. If you do need them, use Pandoc Markdown instead (not Git
 
 *[\<Typora\>](https://duckduckgo.com/?q=typora+markdown+tables) seems to have a decent table creator function. Note that this uses Github Flavored Markdown tables.*
 
+
+## Connections
+
+[Back to Main Index](../README.md)

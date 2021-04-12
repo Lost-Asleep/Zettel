@@ -50,3 +50,5 @@ Air trapping, normal lung and ground glass -> triple density appearance ('head c
 [Pulmonary Lower Zone Fibrosis](../zettel/000A--pulmonary-lower-zone-fibrosis.)
 
 [Pulmonary Nodule Patterns](../zettel/0007--pulmonary-nodule-patterns.md)
+
+[Back to Medicine / Radiology Index](../zettel/0009--medicine-radiology-index.md)

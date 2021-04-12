@@ -45,5 +45,4 @@ Pathology that relates to the capillary bed. So haematogenous (miliary) seeding 
 ## Connections 
 [Lung Adenocarcinoma Terminology](../zettel/0008--lung-adenocarcinoma-terminology.md)
 
-
-
+[Back to Medicine / Radiology Index](../zettel/0009--medicine-radiology-index.md)

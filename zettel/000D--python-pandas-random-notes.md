@@ -20,5 +20,3 @@ new_list = data.state.to_list()
 ## Connections
 
 [Python Programing Language Index](../zettel/000E--python-lang-index.md)
-
-[Back to Main Index](../README.md)

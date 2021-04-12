@@ -39,3 +39,7 @@ sudo apt-get update
 ```sh
 sudo apt-get install emacs-snapshot
 ```
+
+## Connections
+
+[Back to Main Index](../README.md)

@@ -44,3 +44,4 @@ Again thanks to [\<rwxrob\>](https://duckduckgo.com/?q=rwxrob+github).
 ## Connections
 [More basic terminal commands from tlcl 2nd edition](../zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
 
+[Back to Main Index](../README.md)

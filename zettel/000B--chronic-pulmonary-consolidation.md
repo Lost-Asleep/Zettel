@@ -48,3 +48,4 @@ Inflammatory vs Malignant
 
 [Lung adenocarcinoma terminology](../zettel/0008--lung-adenocarcinoma-terminology.md)
 
+[Back to Medicine / Radiology Index](../zettel/0009--medicine-radiology-index.md)

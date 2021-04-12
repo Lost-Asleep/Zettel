@@ -20,4 +20,6 @@ To quit the virtual environment type `deactivate` into the terminal.
 Don't forget to add the venv folder to a .gitignore file.
 
 
+## Connections
 
+[Python Programing Language Index](../zettel/000E--python-lang-index.md)

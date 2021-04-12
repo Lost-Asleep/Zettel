@@ -26,3 +26,6 @@ nemo.breathe()
 nemo.swim()
 ```
 
+## Connections
+
+[Python Programing Language Index](../zettel/000E--python-lang-index.md)

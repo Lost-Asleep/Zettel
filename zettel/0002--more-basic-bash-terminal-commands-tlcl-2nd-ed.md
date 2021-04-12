@@ -32,3 +32,5 @@ Partially redundant to [\<Basic BASH / Terminal commands on Linux\>](./0001--bas
 
 ## Connections
 [Basic bash terminal commands](../zettel/0001--basic-bash-terminal-commands.md)
+
+[Back to Main Index](../README.md)

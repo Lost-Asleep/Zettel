@@ -32,3 +32,5 @@ When you’re reporting fibrotic lung disease you’re trying to categorise into
 ## Connections
 
 [Pulmonary Upper Zone Fibrosis](../zettel/000C--pulmonary-upper-zone-fibrosis.md)
+
+[Back to Medicine / Radiology Index](../zettel/0009--medicine-radiology-index.md)
