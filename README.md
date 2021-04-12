@@ -18,10 +18,6 @@ An exeption to this is the temp-notes folder for notes in progress oder very tin
 
 [More basic BASH / Terminal Commands](./zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
 
-[Python 3 virtual environments via venv](./zettel/0003--python-virtual-environment.md)
-
-[Python 3 class inheritante example](./zettel/0004--python-class-inheritance.md)
-
 [Pong Game Design](./zettel/0005--pong-game-design.md)
 
 [Newer Emacs Version on Linux Mint Debian Edition](./zettel/0006--newer-emacs-on-lmde.md)
