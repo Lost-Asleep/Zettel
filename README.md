@@ -12,22 +12,25 @@ An exeption to this is the temp-notes folder for notes in progress oder very tin
 
 ## Index
 
-[Basic Markdown Syntax](zettel/0000--basic-markdown.md)
+[Basic Markdown Syntax](./zettel/0000--basic-markdown.md)
 
-[Basic BASH Terminal Commands](zettel/0001--basic-bash-terminal-commands.md)
+[Basic BASH Terminal Commands](./zettel/0001--basic-bash-terminal-commands.md)
 
-[More basic BASH / Terminal Commands](zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
+[More basic BASH / Terminal Commands](./zettel/0002--more-basic-bash-terminal-commands-tlcl-2nd-ed.md)
 
-[Python 3 virtual environments via venv](zettel/0003--python-virtual-environment.md)
+[Python 3 virtual environments via venv](./zettel/0003--python-virtual-environment.md)
 
-[Python 3 class inheritante example](zettel/0004--python-class-inheritance.md)
+[Python 3 class inheritante example](./zettel/0004--python-class-inheritance.md)
 
-[Pong Game Design](zettel/0005--pong-game-design.md)
+[Pong Game Design](./zettel/0005--pong-game-design.md)
 
-[Newer Emacs Version on Linux Mint Debian Edition](zettel/0006--newer-emacs-on-lmde.md)
+[Newer Emacs Version on Linux Mint Debian Edition](./zettel/0006--newer-emacs-on-lmde.md)
 
+### Programming
+
+[Python Programing Language Index](./zettel/000E--python-lang-index.md)
 
 ### Medicine
 
-[Medicine / Radiology Index](zettel/0009--medicine-radiology-index.md)
+[Medicine / Radiology Index](./zettel/0009--medicine-radiology-index.md)
 

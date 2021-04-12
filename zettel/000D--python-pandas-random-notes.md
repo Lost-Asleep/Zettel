@@ -1,6 +1,6 @@
 # Random Pandas Notes
 
-More info in the [\<Official Documentation\>](https://pandas.pydata.org/docs/)
+More info in the [\<Official Documentation\>](https://pandas.pydata.org/docs/).
 
 ### Read and write from .csv files
 
@@ -17,3 +17,8 @@ some_other_data.to_csv("path_to_new_csv_file")
 new_list = data.state.to_list()
 ```
 
+## Connections
+
+[Python Programing Language Index](../zettel/000E--python-lang-index.md)
+
+[Back to Main Index](../README.md)
